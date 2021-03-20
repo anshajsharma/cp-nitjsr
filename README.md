@@ -8,9 +8,8 @@
 | --- | --------- |
 |    | [*Special Notes*](#special-notes-) |
 |1   | [Binary Search](https://github.com/anshajsharma/cp-nitjsr/blob/main/topics/BinarySearch.md) | 
-|2   | [Sorting](#) |
-|3   | [Recursion](#) |
-|4   | [Dynamic Programming](#) |
-|5   | [Greedy](#) |
-|6   | [Tree](#) |
-|7   | [Graph](#) |
+|2   | [Dynamic Programming](https://github.com/anshajsharma/cp-nitjsr/blob/main/topics/DP.md) |
+|3   | [Greedy](#) |
+|4   | [Tree](#) |
+|5   | [Graph](https://github.com/anshajsharma/cp-nitjsr/blob/main/topics/Graph.md) |
+|6   | [Advance DS(Trie,Segment Tree,DSU)](https://github.com/anshajsharma/cp-nitjsr/blob/main/topics/AdvancedDS.md) |
