@@ -540,7 +540,7 @@ int longestIncreasingSubsequence2(std::vector<ll> v){
             a.pb(v[i]);
         else 
         {
-            int ind=lb(v,v[i]);
+            int ind=lb(a,v[i]);
             a[ind]=v[i];
         }
 
